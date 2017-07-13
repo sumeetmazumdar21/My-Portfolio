@@ -1,0 +1,123 @@
+#linkedinIcon{
+  color: 	rgb(0, 123, 181);
+}
+
+#facebookicon{
+  color: rgb(59, 89, 152);
+}
+
+#twitterIcon{
+  color:rgb( 85, 172, 238);
+}
+
+.logo{
+  height: 100px;
+  
+}
+
+.padTop{
+  padding-top:5%;
+  padding-bottom:5%;
+  
+}
+
+.nav-pills{
+ 
+  font-size: 1.5em;
+  background-color: #722872;
+  margin-bottom:10%;
+  }
+
+
+body{
+  background-color:white;  
+  font-family: Sans-serif;
+  color: #f25f67;
+}
+.display{
+  background-color: white;
+  opacity:0.7;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius:5px;
+}
+h1{
+  padding-top:10%;
+  padding-bottom:10%;
+  margin-top: auto;
+  margin-bottom:auto;
+  font-size: 5.0em;
+  opacity:0.7;
+  
+}
+
+h2{
+  color: #722872;
+}
+
+h3{
+  color: #f25f67;
+  font-sie: 3.5em;
+  
+}
+
+btn-default{
+  margin-top:20px;
+  padding-bottom:10%;
+  
+  
+  
+}
+.pageOne{
+  background:url("https://images.unsplash.com/photo-1494621930069-4fd4b2e24a11?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&dl=michal-kubalczyk-257107.jpg&s=6ef0b8e561d5cdcf07f3f1fc20ed25f6");
+  background-size:cover;
+  height:500px;
+  padding-bottom:10%;
+  }
+
+.pageTwo{
+  background:url("https://images.unsplash.com/uploads/14108632958755ac7f7f3/fe4a5cbf?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&dl=taner-ardali-807.jpg&s=2fe2720319d9f4084f0dbcd48ae34e81");
+  background-size: cover;
+  color:white;
+  padding-top:2%;
+  padding-bottom:5%;
+  height:1100px;
+}
+
+p{
+  font-size:2.0em;
+  color: white;
+}
+
+.profile{
+  height: 25$;
+  width:25%;
+  border-radius:50%;
+  padding-top:auto;
+  padding-bottom:auto;
+  margin-right:0px;
+}
+
+
+
+.configBtn{
+  
+  width:200px;
+  margin-bottom:25px;
+}
+
+.pageThree{
+  background:url("https://images.unsplash.com/photo-1421882046699-09a0ff4ffb1b?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&dl=daria-nepriakhina-6030.jpg&s=08078f7fb52b467768db64b05d64f0de");
+  background-size:cover;
+ 
+  padding:5%;  
+}
+
+.footer{
+  background-color: #722872;
+}
+
+.footer p{
+  font-size: 10px;
+}
+
